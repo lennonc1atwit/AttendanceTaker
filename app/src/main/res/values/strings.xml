@@ -1,0 +1,25 @@
+<resources>
+    // Home fragment resources
+    <string name="title_login">Login</string>
+    <string name="label_signin_email">Email</string>
+    <string name="label_signin_passcode">Pass-Code</string>
+    <string name="label_register_button">Register</string>
+    <string name="label_register_name">First Name</string>
+    <string name="label_register_name_last">Last Name</string>
+    <string name="label_register_wit_id">W........</string>
+    <string name="label_register_email">Email</string>
+    <string name="label_register_passcode">Pass-Code</string>
+    <string name="label_register_passcode_confirm">Confirm Pass-Code</string>
+    <string name="label_registration_error">Registration Error!</string>
+    <string name="label_registration_error_message">error_message</string>
+    <string name="label_logout">Logout</string>
+    // Navbar resources
+    <string name="app_name">Attendance Taker</string>
+    <string name="title_home">Login</string>
+    <string name="title_check_in">Check-In</string>
+    <string name="title_history">History</string>
+    // Check in fragment resources
+    <string name="check_in_hint_class_code">Class Code</string>
+    <string name="check_in_button_scan_label">Scan QR</string>
+    <string name="check_in_button_submit_label">Submit</string>
+</resources>

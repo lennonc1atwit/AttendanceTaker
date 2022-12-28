@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="history_clr_present">#5C946E</color>
+    <color name="history_clr_late">#F09D51</color>
+    <color name="history_clr_absent">#F06543</color>
+    <color name="black">#191716</color>
+    <color name="gold">#E6AF2E</color>
+    <color name="white">#E0E2DB</color>
+    <color name="purple">#3D348B</color>
+    <color name="purple_alt">#6A66A3</color>
+    <color name="ivory">#BEB7A4</color>
+</resources>
